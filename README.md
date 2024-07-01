@@ -1,7 +1,7 @@
 # 🌟 Preet Vaishnav 🌟
 
 # 💫 About Me:
-I am currently working on Web Development<br>I'm looking to collaborate on Website Development ,AI<br>I am looking in help with integration on website with other features like using other apps<br>I'm currently learning Django and AI<br>Contact me on :preet16vaishnav@gmail.com<br>Fun Fact: I have a love-hate relationship with semicolons; sometimes I use them, sometimes I don't.<br><br>
+I am currently working on Web Development<br>I'm looking to collaborate on Website Development ,AI<br>I am looking in help with integration on website with other features like using other apps<br>I'm currently learning Django and AI<br>Contact me on :preet16vaishnav@gmail.com<br>Fun Fact: I have a love-hate relationship with semicolons; sometimes I use them, sometimes I don't.<br>I also write blogs on medium at https://medium.com/@preet16vaishnav<br><br>
 
 
 ## 🌐 Socials:
