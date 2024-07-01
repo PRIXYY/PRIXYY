@@ -1,7 +1,5 @@
 # 🌟 Preet Vaishnav 🌟
-<div align="center">
-  <img src="https://fontmeme.com/permalink/230701/c8df5dcb81e6a9be15ceba2d26b1b1b8.png" alt="Preet Vaishnav" border="0">
-</div>
+
 # 💫 About Me:
 I am currently working on Web Development<br>I'm looking to collaborate on Website Development ,AI<br>I am looking in help with integration on website with other features like using other apps<br>I'm currently learning Django and AI<br>Contact me on :preet16vaishnav@gmail.com<br>Fun Fact: I have a love-hate relationship with semicolons; sometimes I use them, sometimes I don't.<br><br>
 
